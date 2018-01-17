@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorDark">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+
+
+        <TextView
+            android:id="@+id/planetName"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_orange_light" />
+        <TextView
+            android:id="@+id/planetDiameter"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_orange_light" />
+        <TextView
+            android:id="@+id/planetRotationPeriod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_orange_light"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"/>
+
+        <TextView
+            android:id="@+id/planetOrbitalPeriod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:textColor="@android:color/holo_orange_light" />
+        <TextView
+            android:id="@+id/planetGravity"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_orange_light" />
+        <TextView
+            android:id="@+id/planetPopulation"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_orange_light" />
+        <TextView
+            android:id="@+id/planetClimate"
+            android:layout_width="wrap_content"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_orange_light" />
+        <TextView
+            android:id="@+id/planetTerrain"
+            android:layout_width="wrap_content"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_orange_light" />
+        <TextView
+            android:id="@+id/planetSurfaceWater"
+            android:layout_width="wrap_content"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_orange_light" />
+    </LinearLayout>
+
+
+</RelativeLayout>

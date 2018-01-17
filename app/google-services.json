@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "824054796474",
+    "firebase_url": "https://eseo-course.firebaseio.com",
+    "project_id": "eseo-course",
+    "storage_bucket": "eseo-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824054796474:android:b361f497b585fb74",
+        "android_client_info": {
+          "package_name": "fr.eseo.course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824054796474-ciihgni6n7tlcsomo31jfbhs88ru0br0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.eseo.course",
+            "certificate_hash": "d5796ec3d03f3e69276abe4ef6963ac62a64daf4"
+          }
+        },
+        {
+          "client_id": "824054796474-6qj0ce1tr91n1nrrf7md6m56e57dp3ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFds47sgzB_Ljype2eHdmO00FQ4_tyoDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824054796474-6qj0ce1tr91n1nrrf7md6m56e57dp3ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
